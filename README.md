@@ -1,0 +1,1 @@
+This is a simple post generator GENAI using LLama and Groq with a UI using Streamlit. The purpose is to learn those tools an develop a simple app to make tweets by John Green based on a database of his old tweets (for purposes of this project, the database is quite small, but for bigger projects please use bright data or other data and update prompts to get better results)
