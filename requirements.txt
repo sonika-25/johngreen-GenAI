@@ -1,0 +1,16 @@
+# Core dependencies
+streamlit>=1.36
+pandas>=2.2
+python-dotenv>=1.0.1
+langchain-core>=0.2.0
+langchain-groq>=0.1.0
+
+# If you use the Groq LLM wrapper or any OpenAI-style model helpers
+groq>=0.5.0
+
+# Utilities (standard, but explicitly listed for consistency)
+jsonschema>=4.22
+
+# Optional: if llm_helper or FewShotPosts use OpenAI or LangChain integrations
+langchain>=0.2.0
+openai>=1.0.0
